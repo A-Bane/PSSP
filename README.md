@@ -1,5 +1,5 @@
-# PSSP
-Protein Secondary Structure prediction using PSSM matrix, HMM profile, Structure length average, Word2Vec Embeddings
+# Protein Secondary Structure prediction
+PSSP model using features PSSM matrix, HMM profile, Structure length average, Word2Vec Embeddings
 
 - In this project, we investigate the effect of inputting an additional feature to a recurrent
 neural network in efforts to improve the overall prediction performance. 
