@@ -10,3 +10,5 @@ neural network in efforts to improve the overall prediction performance.
 
 - Additionally, the word2vec embeddings do not offer much potential to predict the secondary structures which can be attributed to the algorithm’s properties. The Word2Vec model generates context independent embeddings which might be affected due to the small vocabulary of the training dataset of 20 amino acids. 
 
+---How to run?---
+Read Readme.txt file
